@@ -1,3 +1,6 @@
-body{
-    background: purple;
+
+#container{
+    background: grey;
+    width: 360px;
+    margin: 0 auto;
 }
